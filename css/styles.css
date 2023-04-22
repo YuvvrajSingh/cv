@@ -1,0 +1,30 @@
+body {
+    background-color: #EAF6F6;
+}
+
+hr{
+    border-color: grey;
+    border-width: 5px;
+    border-style: dotted none none;
+    border-radius: 5;
+    width: 2%;
+   
+}
+
+h1 {
+    font-weight: bold;
+    font-family: 'Helvetica Neue', sans-serif;
+    color: #66bfbf;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 4px #cccccc;
+}
+
+
+
+h3{
+    font-weight: bold;
+    font-family: 'Helvetica Neue', sans-serif;
+    color: #66bfbf;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 4px #cccccc;
+}
