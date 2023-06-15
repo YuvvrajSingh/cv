@@ -2,16 +2,15 @@ body {
     background-color: #EAF6F6;
 }
 
-hr{
+hr {
     border-color: grey;
     border-width: 5px;
     border-style: dotted none none;
-    border-radius: 5;
+    border-radius: 5px;
     width: 2%;
-   
 }
 
-h1 {
+h1, h3 {
     font-weight: bold;
     font-family: 'Helvetica Neue', sans-serif;
     color: #66bfbf;
@@ -19,12 +18,26 @@ h1 {
     text-shadow: 2px 2px 4px #cccccc;
 }
 
+table {
+    border-collapse: collapse;
+}
 
+td {
+    padding: 10px;
+}
 
-h3{
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #66bfbf;
     font-weight: bold;
     font-family: 'Helvetica Neue', sans-serif;
-    color: #66bfbf;
-    letter-spacing: 2px;
-    text-shadow: 2px 2px 4px #cccccc;
+}
+
+a:hover {
+    color: #2a7a7a;
 }
